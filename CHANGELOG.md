@@ -1,3 +1,3 @@
 # 0.1.0
 
-Initial release of chef-pagekit
+Initial release of the cookbook pagekit
