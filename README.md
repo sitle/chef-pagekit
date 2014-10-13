@@ -1,27 +1,14 @@
-# Pagekit-cookbook
+# chef-pagekit
 
-TODO: Enter the cookbook description here.
+This cookbook is used to install all prerequisite so pagekit can work. I use it for devolpement only. Please feel free to go get some information on this software on their web site : http://www.pagekit.com/
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+* Debian (the only platform i use actually)
 
 ## Attributes
 
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['pagekit']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
+There is no real attributes for this cookbook.
 
 ## Usage
 
@@ -39,4 +26,4 @@ Include `pagekit` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Léonard TAVAE (leonard.tavae@gmail.com)
